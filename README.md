@@ -1,5 +1,12 @@
-# slotted-support
-# Slotted
+# Slotted Support
+
+Need help, found a bug, or have a feature request? Email
+**[wyattflew@yahoo.com](mailto:wyattflew@yahoo.com)** and include your device
+model, iOS version, and what happened.
+
+- [Privacy Policy](./privacy.md)
+
+---
 
 Slotted is a SwiftUI iOS app that reads a user's calendar on-device, finds realistic open time slots, and recommends workouts, meals, supplements, stretching, wind-down time, and hydration habits around the day they already have.
 

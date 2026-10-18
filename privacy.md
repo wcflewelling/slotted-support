@@ -53,4 +53,4 @@ Calendar events remain in your calendar provider's storage. Slotted-created cale
 
 ## Contact
 
-For privacy questions, contact the developer at: [add support email before publishing].
+For privacy questions, contact the developer at: [wyattflew@yahoo.com](mailto:wyattflew@yahoo.com).
