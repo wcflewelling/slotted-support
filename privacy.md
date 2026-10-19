@@ -13,7 +13,6 @@ Slotted may use the following information on your device:
 - Habit tracking data, including completed recommendations, streak calculations, total completions, and hydration logs.
 - Your local Slotted profile, including display name, avatar emoji, current streak, total workouts, and last updated date.
 - Friend snapshots added through QR codes or deep links, including a friend's display name, avatar emoji, streak snapshot, total workouts, and last updated date.
-- StoreKit purchase status for Slotted Pro.
 
 ## Calendar Access
 
@@ -37,7 +36,7 @@ If you enable the app lock, Slotted uses Apple's LocalAuthentication framework t
 
 ## Purchases
 
-Slotted Pro purchases are handled by Apple through StoreKit and the App Store. Slotted can see whether you have an active entitlement for its own products, but it does not receive your full payment card information.
+Slotted is a one-time paid download with no in-app purchases or subscriptions. Your purchase is handled entirely by Apple through the App Store; Slotted never receives your payment information.
 
 ## Data Sharing
 
